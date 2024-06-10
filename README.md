@@ -1,4 +1,4 @@
-# ml-projects-repo
+# Mental Health
 ML projects
 <br>
 Author - Arpan Chandra
